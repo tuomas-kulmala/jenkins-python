@@ -1,7 +1,6 @@
 import unittest
 
-from main import Creature
-
+from src.main import Creature
 
 
 class MainTest(unittest.TestCase):
